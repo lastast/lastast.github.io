@@ -6,8 +6,10 @@ body{
 h1,h2,h3,h4,h5,h6{
 		font-family: 'Noto Sans TC', sans-serif;
 		color:#ffe7e4;
+		text-transform:none;
 }
 .subheading{
 	font-family: 'Noto Sans TC', sans-serif;
 	color:#7d2be4;
+	text-transform:none;
 }

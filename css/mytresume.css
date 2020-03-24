@@ -1,23 +1,13 @@
-<<<<<<< HEAD
 body{
 	font-family: 'Noto Sans TC', sans-serif;
 	color:#ffd53c;
-	}
+}
 	
-	h1,h2,h3,h4,h5,h6{
+h1,h2,h3,h4,h5,h6{
 		font-family: 'Noto Sans TC', sans-serif;
 		color:#ffe7e4;
-	}
+}
 .subheading{
 	font-family: 'Noto Sans TC', sans-serif;
 	color:#7d2be4;
-=======
-body{
-	font-family: 'Noto Sans TC', sans-serif;
-	}
-	h1,h2,h3,h4,h5,h6{
-		font-family: 'Noto Sans TC', sans-serif;
-.subheading{
-	font-family: 'Noto Sans TC', sans-serif;
-	
->>>>>>> 6038f9c9049469a83dbfd7a6e9738c13af1348c4
+}

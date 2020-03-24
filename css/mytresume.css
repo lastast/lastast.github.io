@@ -13,3 +13,18 @@ h1,h2,h3,h4,h5,h6{
 	text-transform:none;
 	color:#7d2be4; 
 }
+.bg-primary {
+  background-color: #7dc0e4 !important;
+}
+
+.text-primary {
+  color: #7dc09b !important;
+}
+
+a {
+  color: #bcc09b;
+}
+
+a:hover, a:focus, a:active {
+  color: #bc999b;
+}

@@ -15,7 +15,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .bg-primary {
   background-color: #7dc0e4 !important;
-  background-color: url("img/otis-redding.png");
+  background-image: url("img/otis-redding.png");
 }
 
 .text-primary {

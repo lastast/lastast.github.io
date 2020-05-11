@@ -29,3 +29,7 @@ a {
 a:hover, a:focus, a:active {
   color: #bc999b;
 }
+div#flex_container{
+display: flex;
+flex-direction: column-reverse
+}

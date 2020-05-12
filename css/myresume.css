@@ -33,3 +33,12 @@ div#flex_container{
 display: flex;
 flex-direction: column-reverse
 }
+div.child_div{
+front-size:1.5rem;
+background-color:#fffff;
+margin:0.5rem
+padding:0.5rem;
+}
+.child_div p {
+  display:block;
+  margin:0rem;
